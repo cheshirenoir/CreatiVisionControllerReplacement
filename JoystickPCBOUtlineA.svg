@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Creator: CorelDRAW 2019 (64-Bit) -->
+
+<svg
+   xml:space="preserve"
+   width="93.799141mm"
+   height="90.962852mm"
+   version="1.1"
+   style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+   viewBox="0 0 7024.9403 6812.5214"
+   id="svg22"
+   sodipodi:docname="JoystickPCBOutline.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+   id="namedview24"
+   pagecolor="#ffffff"
+   bordercolor="#000000"
+   borderopacity="0.25"
+   inkscape:showpageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   inkscape:deskcolor="#d1d1d1"
+   inkscape:document-units="mm"
+   showgrid="false" />
+ <defs
+   id="defs16"><style
+     type="text/css"
+     id="style14">
+   <![CDATA[
+    .str0 {stroke:black;stroke-width:14.98;stroke-miterlimit:22.9256}
+    .fil0 {fill:none}
+   ]]>
+  </style></defs>
+ <g
+   id="Layer_x0020_1"
+   inkscape:label="Layer 1"
+   inkscape:groupmode="layer"
+   transform="translate(-2.2888222e-7,0.00534784)">
+  <metadata
+   id="CorelCorpID_0Corel-Layer" />
+  <path
+   class="fil0 str0"
+   d="M 6858.93,3743.92 V 6771.74 H 2889.47 V 5486.49 h -97.16 c -25.23,468.65 -286,895.21 -695.46,1133.06 -431.18,247.3 -963.83,247.3 -1395.02,0 C 270.65,6369.08 7.49,5909.36 7.49,5411.59 c 0,-497.76 263.15,-957.49 694.34,-1207.96 193.26,-110.83 406.88,-171.96 622.62,-183.44 v -70.21 H 162.85 V 3249.31 H 299.18 V 3068.59 H 162.85 V 40.77 H 4132.3 v 1285.25 h 100.3 c 24.94,-468.65 282.85,-895.2 692.32,-1133.06 431.19,-247.3 963.83,-247.3 1395.02,0 431.18,250.47 697.51,710.19 697.51,1207.96 0,497.77 -266.32,957.49 -697.51,1207.96 -193.25,110.83 -406.87,171.95 -622.61,183.44 v 70.21 h 1161.6 v 700.68 h -136.34 v 180.72 h 136.34 z m -3320.72,-417.84 53.79,53.79 45.71,-44.94 h 675.31 v -472.41 h 1234.52 v -70.21 c -215.74,-11.48 -429.36,-72.6 -622.62,-183.44 -409.47,-237.85 -667.38,-664.42 -692.32,-1133.06 h -100.3 v 1266.22 l -594.1,584.04 z m -53.03,158.8 -53.79,-53.79 -47.31,46.51 H 2708.76 V 3950 H 1474.25 v 70.21 c 215.74,11.49 429.36,72.6 622.61,183.44 409.47,237.85 670.23,664.42 695.46,1133.06 h 97.16 V 4070.49 l 595.7,-585.6 z"
+   id="path19" />
+ </g>
+</svg>
